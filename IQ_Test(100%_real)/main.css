@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    background-image: url(Smart_fella.jpeg);
+}
+.Header{
+    color: yellow;
+    background-color: blue;
+    text-align: center;
+    font-size: 50px;
+}
+.sergej{
+    margin: auto;
+    width: 500px;
+    height: 280px;
+    background-color: red;
+    text-align: center;
+    align-items: center;
+    margin-top: 50px;
+    
+}
+input{
+    height: 50px;
+    width: 200px;
+   
+}
+button{
+    width: 95%;
+    height: 70px;
+}
+p{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

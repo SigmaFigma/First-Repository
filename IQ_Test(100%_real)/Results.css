@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    background-color: blue;
+    background-image: url(RESULT.jpg);
+}
+h1{
+    font-family: Impact;
+    text-align: center;
+    background-color: white;
+}
+.image{
+    border: 5px solid black;
+    border-radius: 5px;
+    position: absolute;
+    margin-left: 33%;
+    display: block;
+    top: 165px;
+}
+.image:hover{
+    opacity: 0;
+    transition: 2s;
+}
+.text{
+    background-color: white;
+    border: 5px solid black;
+    border-radius: 5px;
+    position: absolute;
+    margin-left: 33%;
+    display: block;
+    height: 332px;
+    width: 575px;
+    opacity: 0;
+    top: 165px;
+    text-align: center;
+}
+p{
+    font-size: 50px;
+}
+.text:hover{
+    opacity: 1;
+    transition: 2s;
+}
